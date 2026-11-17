@@ -1,0 +1,47 @@
+{
+  "version": "3.130.39111.0",
+  "course_id": "5kEiIZ0wkD6",
+  "title": "PFA at Work - Workplace Scenario",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Daniel's Workplace Scenario"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5oJXWRPxNQe",
+      "title": "01 - Meet Daniel",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6o7tXJWSK4h",
+      "title": "02 - LOOK: Observe the Situation",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5jXRvTX5xTC",
+      "title": "03 - LISTEN: Respond with Empathy",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "5ozfZgKamAH",
+      "title": "04 - LINK: Connect to Support",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "6CbGJRcurjN",
+      "title": "05 - Key Takeaways",
+      "scene_index": "1.5"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1940,
+    "height": 1151
+  },
+  "stage": {
+    "width": 1920,
+    "height": 1080
+  }
+}
